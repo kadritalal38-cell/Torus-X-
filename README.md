@@ -68,7 +68,7 @@ g++ -std=c++17 -O3 CosmoLink_PreClinical_Engine.cpp -o CosmoLinkEngine
 
 ---
 *Document officially prepared and locked for global pre-clinical evaluation.*
-[١/‏٨ ٢:٣٨ ص] Talal Kadri: ========================================================================================
+========================================================================================
              COSMOLINK UNIFIED MATRIX ENGINE INDUSTRIAL & ACADEMIC LICENSE
                      TERMS OF REGISTRATION AND INTELLECTUAL ENFORCEMENT
 ========================================================================================
