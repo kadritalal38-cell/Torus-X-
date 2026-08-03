@@ -132,3 +132,10 @@ EXECUTION FOOTER:
 This document is officially signed, timestamped, and locked under global copyright protection.
 Author Identity: Mohamed Talal Kadri (Philosophical Researcher in Free Space).
 ========================================================================================
+## Contact & Access Requests
+
+This is a private and restricted repository. If you wish to review the full research, request access, or discuss potential collaboration, please reach out via email:
+
+📩 kadritalal84@gmail.com 
+
+
